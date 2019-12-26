@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumSimulator", "QuantumSimulator\QuantumSimulator.csproj", "{ABADCA2F-135A-48DD-B5D1-370F44D0FB36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumSimulatorTest", "QuantumSimulatorTest\QuantumSimulatorTest.csproj", "{0686A310-6C6E-408D-94F4-BF71D5ECF981}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{ABADCA2F-135A-48DD-B5D1-370F44D0FB36}.Release|x64.Build.0 = Release|Any CPU
 		{ABADCA2F-135A-48DD-B5D1-370F44D0FB36}.Release|x86.ActiveCfg = Release|Any CPU
 		{ABADCA2F-135A-48DD-B5D1-370F44D0FB36}.Release|x86.Build.0 = Release|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Debug|x64.Build.0 = Debug|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Debug|x86.Build.0 = Debug|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Release|x64.ActiveCfg = Release|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Release|x64.Build.0 = Release|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Release|x86.ActiveCfg = Release|Any CPU
+		{0686A310-6C6E-408D-94F4-BF71D5ECF981}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
